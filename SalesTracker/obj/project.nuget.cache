@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cQ3gUTd2BEfQKxCv1DKNuEnUnTwxl7QMYvIrXi/e1CNaFEPOwTwnCb73DrcEeXApXKKw0vCTcdu7UkS3/ua5Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ThinkPad\\source\\repos\\SalesTracker\\SalesTracker\\SalesTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
